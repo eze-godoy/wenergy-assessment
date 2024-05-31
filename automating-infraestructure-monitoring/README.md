@@ -33,3 +33,7 @@ export AZURE_RESOURCE_GROUP=RESOURCE_GROUP
 python setup_azure_monitoring.py --vms vm1 vm2 vm3 --mode update
 python setup_azure_monitoring.py --mode show
 ```
+
+## Consideration
+
+For production ready script it would be ideal to add better error handling and notifications.
