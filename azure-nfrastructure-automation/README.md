@@ -1,4 +1,4 @@
-# wenergy-assessment
+# Assignment 1: Azure Infrastructure Automation with Terraform
 
 ## How to deploy
 
